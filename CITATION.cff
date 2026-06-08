@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Statistical analysis support materials for a multicenter randomized trial of radiation dose reduction in balloon endoscopy-assisted ERCP"
+authors:
+  - family-names: Mitsuhashi
+    given-names: Toshiharu
+type: software
+version: 1.0.0
+date-released: 2026-06-08
+repository-code: "https://github.com/sankyoh/be-ercp-radiation-rct-analysis"
+license: MIT
+message: "If you use these materials, please cite the archived version."

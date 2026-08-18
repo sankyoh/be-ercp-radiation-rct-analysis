@@ -3,7 +3,7 @@ title: "Statistical analysis support materials for a multicenter randomized tria
 authors:
   - family-names: Mitsuhashi
     given-names: Toshiharu
-type: Stata do file
+type: software
 version: 1.0.0
 date-released: 2026-06-08
 repository-code: "https://github.com/sankyoh/be-ercp-radiation-rct-analysis"

@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20592014.svg)](https://doi.org/10.5281/zenodo.20592013)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20592013.svg)](https://doi.org/10.5281/zenodo.20592013)
 
 # be-ercp-radiation-rct-analysis
 

@@ -1,5 +1,5 @@
 /*
-服部先生＠消化器内科
+be-ercp-radiation-rct-analysis
 
 Non-inferiority test
 
